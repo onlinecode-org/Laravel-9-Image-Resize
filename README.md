@@ -18,13 +18,22 @@ we are going on how to resize an image to thumbnail in Laravel 9. so here we are
 MORE INFO ON : https://www.onlinecode.org/laravel-9-crud-example-laravel-9-beginners-tutorial/
 
 Step 1: Install Laravel
+
 Step 2: Setting Database Configuration
+
 Step 3: Create Table using migration
+
 Step 4: Install Package
+
 Step 5: Add providers and aliases
+
 Step 6: Create Route
+
 Step 7: Create a Model and Controller
+
 Step 8: Create Blade Files
+
 Step 9: Run The Application
+
 
 MORE INFO ON : https://www.onlinecode.org/laravel-9-crud-example-laravel-9-beginners-tutorial/
